@@ -1335,7 +1335,8 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .team_section .team_members .team_member img {
-    width: 100%
+    width: 100%;
+    padding-top: 10px;
 }
 
 .team_section .team_members .team_member .overlay {
